@@ -1,0 +1,26 @@
+body{
+	background-color: #F5FFFA;
+	font-family: Georgia, "Times New Roman" ;
+	font-size: 1.1875em;
+}
+h1,h2{
+	color: darkblue;
+	font-family: Arial, "Times New Roman";
+}
+strong{
+	color: #6A5ACD;
+	font-family: "Lucida Console";
+}
+a:link {
+  color: red;
+  text-decoration: none;
+}
+a:visited {
+  color: green;
+  text-decoration: none;
+}
+a:hover {
+  color: hotpink;
+  text-decoration: underline;
+}
+
